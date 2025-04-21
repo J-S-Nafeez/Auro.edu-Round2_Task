@@ -12,10 +12,10 @@ This is a simple and functional **Chat Application** developed as part of the **
 
 🔧 How to Run Locally
 git clone https://github.com/J-S-Nafeez/Auro.edu-Round2_Task.git
-cd Auro.edu-Round2_Task
+-cd Auro.edu-Round2_Task
 install 
-npm install 
+-npm install 
 To Start 
-npm run dev 
+-npm run dev 
 
 
