@@ -1,12 +1,21 @@
-# React + Vite
+# 💬 Auro.edu - Chat Application (Round 2 Task)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple and functional **Chat Application** developed as part of the **Auro.edu Round 2 Task**. It demonstrates real-time messaging features and a clean UI designed for smooth communication between users.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Real-time chat interface
+- User-friendly UI/UX
+- Responsive design
+- Scrollable chat area
+- Message input & send functionality
 
-## Expanding the ESLint configuration
+🔧 How to Run Locally
+git clone https://github.com/J-S-Nafeez/Auro.edu-Round2_Task.git
+cd Auro.edu-Round2_Task
+install 
+npm install 
+To Start 
+npm run dev 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
